@@ -1,0 +1,1 @@
+Аспектно-ориентированный анализ тональности отзывов о лондонских больницах<img width="1958" height="115" alt="image" src="https://github.com/user-attachments/assets/4a950984-afac-4e67-aad5-87131136d9b0" />
